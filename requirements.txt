@@ -1,0 +1,7 @@
+pypdf
+python-docx
+python-pptx
+openpyxl
+google-genai
+psycopg[binary]
+python-dotenv
